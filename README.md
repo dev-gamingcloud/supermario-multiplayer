@@ -1,3 +1,8 @@
-# Mario-Unity
-An accurate recreation of Super Mario Bros. in Unity.
-The object is to create as accurate of a reepresentation as possible, all the way down to the particle effects, the screen transitions, and the resolution.
+# supermario-multiplayer
+Unity Multiplayer Super Mario Game game with gamingcloud service
+
+# Config Project
+1. Create Real-Time Game
+2. Go to GamingCloud/Initilize and set tokens
+3. Set A/B test player token in Test Player Id
+4. Run it!
